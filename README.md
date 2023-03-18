@@ -1,6 +1,6 @@
-# flutter_application_1
+# Social Media Application
 
-A new Flutter project.
+A Social Media Application
 
 ## Getting Started
 
